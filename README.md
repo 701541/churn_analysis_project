@@ -21,3 +21,4 @@ streamlit run app.py
 
 ##  Output
 Predicts whether a customer will churn or stay.# Churn_analysis
+# churn_analysis_project
