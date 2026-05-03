@@ -20,4 +20,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ##  Output
-Predicts whether a customer will churn or stay.
+Predicts whether a customer will churn or stay.# Churn_analysis
